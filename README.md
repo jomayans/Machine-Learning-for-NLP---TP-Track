@@ -7,6 +7,6 @@ Fake news, that is false or misleading information disguising as legitimate news
 
 ## Repository
 
-This repository contains our article (What Makes Fake News.pdf) and our code (Fake_news.ipynb).
+This repository contains our article (What Makes Fake News.pdf) and our code (Fake_news_fixed.ipynb).
 
 We used the ISOT Fake News Dataset, available here: https://www.kaggle.com/datasets/csmalarkodi/isot-fake-news-dataset/data
